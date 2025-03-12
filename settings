@@ -1,0 +1,24 @@
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "workbench.colorTheme": "Bearded Theme Aquarelle Hydrangea",
+    "workbench.activityBar.location": "top",
+    "workbench.productIconTheme": "icons-carbon",
+    "explorer.compactFolders": false,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "trailing",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.runInTerminal": true,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma",
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.rebaseWhenSync": true
+}
